@@ -10,6 +10,8 @@ body{
 }
 body div.inscription{
     position: absolute;
+    display: flex;
+    justify-content: flex-end;
     top: 50%;
     right: 50%;
     transform: translate(50%,-50%);
